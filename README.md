@@ -1,16 +1,12 @@
-### Hi there 👋
+### Ayo, what are you doing here? 🤨📸
+There's not much to say. I'm working, coding and just messing around
+I also contribute to opensource sometimes
 
-<!--
-**lokot0k/lokot0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anyways, small introduction:
+- 🔭 I’m currently working on my life, lol
+- 🌱 I’m currently diving into software engineering overall
+- 👯 I’m looking to collaborate on anything interesting
+- 📫 How to reach me: there're contacts on my [gh page](https://lokot0k.github.io)
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach me if you want to!

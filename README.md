@@ -1,6 +1,6 @@
 ### Ayo, what are you doing here? 🤨📸
-There's not much to say. I'm working, coding and just messing around
-I also contribute to opensource sometimes
+There's not much to say. I'm working, coding and just messing around.
+I'm also contributing to opensource sometimes
 
 Anyways, small introduction:
 - 🔭 I’m currently working on my life, lol

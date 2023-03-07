@@ -11,6 +11,7 @@ Anyways, small introduction:
 
 Feel free to reach me if you want to!
 
-Also look at my current streak! (I hope it's high enough😅)
+------
+btw look at my current streak! (I hope it's high enough😅)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lokot0k&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)

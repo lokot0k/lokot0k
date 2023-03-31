@@ -6,8 +6,8 @@ Anyways, small introduction:
 - 🔭 I’m currently working on my life, lol
 - 🌱 I’m currently diving into software engineering overall
 - 👯 I’m looking to collaborate on anything interesting
+- 🧐 I'm currently higly interested in data engineering
 - 📫 How to reach me: there're contacts on my [gh page](https://lokot0k.github.io)
-- 😄 Pronouns: he/him
 
 Feel free to reach me if you want to!
 
